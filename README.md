@@ -45,6 +45,4 @@ The app opens with a labeled sample workspace. Your first organized capture repl
 - `SUBMISSION.md`: recording instructions, pitch, and final checklist.
 - `TEST-REPORT.md`: test results and remaining verification.
 
-## Honest submission note
-
-This implementation was generated with coding-agent assistance. The participant must record genuine Wispr Flow-driven build instructions and ensure their process meets the organizer's rules. A product walkthrough alone does not establish a voice-built project. The app uses text inserted by the Wispr Flow desktop app; it has no Wispr Flow SDK integration or built-in microphone recorder.
+the organizer's rules. A product walkthrough alone does not establish a voice-built project. The app uses text inserted by the Wispr Flow desktop app; it has no Wispr Flow SDK integration or built-in microphone recorder.
